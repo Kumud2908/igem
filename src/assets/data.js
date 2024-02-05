@@ -1,5 +1,5 @@
 const ImageSlide=[
-  {url:'/',
+  {url:'5909.jpg',
     title:<span clasName="myselect" >Selection of Yeast Strain:</span>,
      body:<h3><br/>'Choose a yeast strain that has the ability to produce the desired vitamin. Saccharomyces cerevisiae is commonly used for this purpose.'</h3>,
   

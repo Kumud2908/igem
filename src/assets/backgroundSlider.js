@@ -53,7 +53,7 @@ const BackgroundSlider = () => {
   },[currentState])
 
   const bgImageStyle = {
-    backgroundImage: `url(${ImageSlide[currentState].url})`,
+    // backgroundImage: `url(${ImageSlide[currentState].url})`,
     backgroundPosition: 'center',
     backgroundSize: 'cover',
     height: '100%',
